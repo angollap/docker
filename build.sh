@@ -1,1 +1,1 @@
-docker build -t kangzeroo .
+docker build -t pythonappenv:v1 .
